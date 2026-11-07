@@ -87,7 +87,7 @@ Research funded by the Universidad del Valle internal call project *Metodología
 
 Each document keeps its own license or publisher terms. Please verify them before reusing or redistributing anything from this repository. Known cases:
 
-- **SMG User Manual**: [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). It includes unmodified third-party code (*Image Mouse Zoom and Pan*, Dany Cabrera, CC BY-SA 3.0).
+- **SMG User Manual**: [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). It includes unmodified third-party code ([*Image Mouse Zoom and Pan*, Dany Cabrera, CC BY-SA 3.0](https://github.com/danyalejandro/imgzoompan)).
 - **CONIITI 2020 paper**: © IEEE; consult the publisher's terms.
 - **Thesis**: subject to the policies of Universidad del Valle.
 
