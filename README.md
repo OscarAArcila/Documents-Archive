@@ -10,7 +10,7 @@ New documents are added over time, so the contents below are grouped by project.
 
 | Project | Documents | Topic |
 |---------|-----------|-------|
-| [Lunar Seismology: Synthetic Moonquakes](#0001-Under-Graduate-lunar-seismology) | 4 | Synthetic lunar accelerograms from Apollo seismic data |
+| [Lunar Seismology: Synthetic Moonquakes](/0001-Under-Graduate-lunar-seismology) | 4 | Synthetic lunar accelerograms from Apollo seismic data |
 
 *More projects will be listed here as they are added.*
 
